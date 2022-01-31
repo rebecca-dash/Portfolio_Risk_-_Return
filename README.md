@@ -32,7 +32,7 @@ Examples of my code are found here:
 ![Code_Screenshot](GitHub_Upload\Risk_Management\Portfolio_Risk_-_Return\daily_returns_ss.png)
 
 2. Graphing the CUmulative Returns of the four portfolios and S&P 500
-![Graph_Screenshot](GitHub_Upload\Risk_Management\Portfolio_Risk_-_Return\graph_of_returns.png)
+![Graph_Screenshot](https://github.com/beccabeastly/Portfolio_Risk_-_Return/blob/main/graph_of_returns.png)
 
 ## Contributors
 
