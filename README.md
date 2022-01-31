@@ -26,6 +26,14 @@ conda install pandas
 
 ---
 
+##Code Notes
+Examples of my code are found here:
+1. Calculating the daily returns
+![Code_Screenshot](GitHub_Upload\Risk_Management\Portfolio_Risk_-_Return\daily_returns_ss.png)
+
+2. Graphing the CUmulative Returns of the four portfolios and S&P 500
+![Graph_Screenshot](GitHub_Upload\Risk_Management\Portfolio_Risk_-_Return\graph_of_returns.png)
+
 ## Contributors
 
 Email: beccabeastly@gmail.com
