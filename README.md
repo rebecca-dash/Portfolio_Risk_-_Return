@@ -15,7 +15,7 @@ Jupyter Lab
 ## Installation Guide
 
 # conda
-conda install pandas
+pip install pandas
 
 ---
 
