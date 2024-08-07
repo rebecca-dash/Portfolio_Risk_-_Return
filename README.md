@@ -31,12 +31,12 @@ Examples of my code are found here:
 1. Calculating the daily returns
 ![Code_Screenshot](https://github.com/beccabeastly/Portfolio_Risk_-_Return/blob/main/daily_returns_ss.png)
 
-2. Graphing the CUmulative Returns of the four portfolios and S&P 500
+2. Graphing the Cumulative Returns of the four portfolios and S&P 500
 ![Graph_Screenshot](https://github.com/beccabeastly/Portfolio_Risk_-_Return/blob/main/graph_of_returns.png)
 
 ## Contributors
 
-Email: beccabeastly@gmail.com
+Email: rebeccatech.dash@gmail.com
 ![LinkedIn: ](https://www.linkedin.com/in/rebecca-brown-4637681a9/) 
 ---
 
